@@ -13,7 +13,7 @@
 - Predicting the age of the patient
 - Predicting Lab test type
 
-## What to expect in the code?
+## What to expect from the code?
 - Data collection: using the EMR record
 - Describe data 
 - Explore data 
