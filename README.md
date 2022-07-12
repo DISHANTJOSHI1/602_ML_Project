@@ -3,6 +3,9 @@
 ![](data/Picture1.jpg)
 <img src="data/Picture1.jpg" width="40">
 
+## Data Source
+http://www.emrbots.org/
+
 ## Introduction
 - Due to confidentiality reasons accessing the original patients data was not possible hence, we are using artificially generated EMR.
 - Electronic medical records (EMRs) represent a powerful resource to study disease complications at a population level. 
